@@ -1,6 +1,6 @@
 # trying-pixi
 
-pixi init .                   
-pixi add python
-pixi add ipykernel
-pixi add manim
+pixi init .                    
+pixi add python  
+pixi add ipykernel  
+pixi add manim  
