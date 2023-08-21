@@ -12,3 +12,4 @@ hello = "python hello_world.py"
 [dependencies]
 python = "3.11.4.*"
 ipykernel = "6.25.1.*"
+manim = "0.17.3.*"
